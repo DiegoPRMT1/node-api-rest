@@ -1,0 +1,34 @@
+{
+  "name": "node-api-rest",
+  "version": "1.0.0",
+  "description": "Real Estate node api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoPRMT1/node-api-rest.git"
+  },
+  "keywords": [
+    "realEstate",
+    "node",
+    "nodejs",
+    "api"
+  ],
+  "author": "Diego Perez Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoPRMT1/node-api-rest/issues"
+  },
+  "homepage": "https://github.com/DiegoPRMT1/node-api-rest#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
